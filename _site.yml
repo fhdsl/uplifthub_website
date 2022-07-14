@@ -1,7 +1,6 @@
 name: UPLIFT Hub
 output_dir: '.'
 navbar:
-  title: "<img src='resources/images/UPLIFT.png' width = '200px'/>"
   left:
   - text: About UPLIFT Hub
     href: index.html

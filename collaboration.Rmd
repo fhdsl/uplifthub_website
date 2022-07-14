@@ -8,4 +8,4 @@ output:
 
 ## Student Research {#student-research}
 
-More to come on how to collaborate with GDSEH. 
+More to come on how to collaborate with UPLIFT. 
