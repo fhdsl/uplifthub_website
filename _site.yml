@@ -1,9 +1,9 @@
-name: Genomic Data Science Education Hub
+name: UPLIFT Hub
 output_dir: '.'
 navbar:
-  title: "<img src='resources/images/GDSEH.png' width = '200px'/>"
+  title: "<img src='resources/images/UPLIFT.png' width = '200px'/>"
   left:
-  - text: About GDSEH
+  - text: About UPLIFT Hub
     href: index.html
     icon: fa-home
   - text: Community
