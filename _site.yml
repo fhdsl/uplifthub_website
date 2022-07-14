@@ -1,0 +1,57 @@
+name: Genomic Data Science Education Hub
+output_dir: '.'
+navbar:
+  title: "<img src='resources/images/GDSEH.png' width = '200px'/>"
+  left:
+  - text: About GDSEH
+    href: index.html
+    icon: fa-home
+  - text: Community
+    href: community.html
+    icon: fa-users
+    menu:
+      - text: GDSCN
+        href: http://www.gdscn.org/
+      - text: Working Groups
+        href: community.html#working-groups
+      - text: Slack
+        href: http://slack.com/
+      - text: Join Us!
+        href: community.html#join-us
+  - text: Curriculum
+    href: curriculum.html
+    icon: fa-graduation-cap
+    menu:
+      - text: Course Material
+        href: curriculum.html#course-material
+      - text: Develop With Us!
+        href: curriculum.html#develop-content
+  - text: Collaboration
+    href: collaboration.html
+    icon: fa-handshake
+    menu:
+      - text: Student Research
+        href: collaboration.html#student-research
+  - text: Training
+    href: training.html
+    icon: fa-briefcase
+    menu:
+      - text: Learning Pathways
+        href: training.html#pathways
+      - text: Instructor Support
+        href: training.html#instructor-support
+      - text: R25 + Grant Support
+        href: training.html#grants
+  - text: Events
+    href: events.html
+    icon: fa-calendar
+  - text: Cloud Support
+    href: cloud.html
+    icon: fa-cloud
+
+output:
+  html_document:
+    css: style.css
+    includes:
+      in_header: resources/header.html
+      after_body: resources/footer.html

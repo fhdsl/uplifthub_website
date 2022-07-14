@@ -1,0 +1,9 @@
+version: '2'
+services:
+  data:
+    image: dockerimages.fhcrc.org/data:latest
+    stdin_open: true
+    ports:
+      - "80"
+    labels:
+      io.rancher.container.pull_image: always

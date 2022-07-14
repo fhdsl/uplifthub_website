@@ -1,0 +1,11 @@
+---
+title: Collaboration
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+## Student Research {#student-research}
+
+More to come on how to collaborate with GDSEH. 
